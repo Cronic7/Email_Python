@@ -27,3 +27,5 @@ Run the script using the following command:
 
 ```bash
 python email_script.py
+
+
